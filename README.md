@@ -2,11 +2,14 @@
 共通チームによるテーブル定義（ERMaster）およびDDLの管理用のリポジトリ
 
 
-- 環境構築
+
+
+# 環境構築
 ERMaster Install
 https://rion.atlassian.net/wiki/spaces/SF/pages/947847338/ERMaster+install
 
 
+# 各フォルダの説明
 →NHFC
  →NHF(PostgreSQL).erm      NHF(SqlServer).ermをPostgresにとりあえず変換したものです。こちらを中心にメンテしていきます。
  →NHF(PostgreSQL).png      コミット前に確定したものを出力してください。
@@ -17,5 +20,6 @@ https://rion.atlassian.net/wiki/spaces/SF/pages/947847338/ERMaster+install
   →NHF(SqlServer).erm （ERMAsterで取り込んだそのままのデータ） 元のデータURL　https://drive.google.com/drive/u/0/folders/1Vskhn4EI24-WveqtJh6i-kd-hhWJ-ixY
 
 
+## 作成LOG
 SQLServer→PostgresSQL取り込みの手順については下記のチケットに残しました。
 https://rion.atlassian.net/browse/SI-2306
