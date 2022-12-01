@@ -17,8 +17,8 @@ https://rion.atlassian.net/wiki/spaces/SF/pages/947847338/ERMaster+install
  →NHF(PostgreSQL).dll      コミット時に出力します。（現段階ではエラーが発生しているため未出力）
 
  →SQLServer
-  →NHF_Original.sql
-  →NHF(SqlServer).erm （ERMAsterで取り込んだそのままのデータ） 元のデータURL　https://drive.google.com/drive/u/0/folders/1Vskhn4EI24-WveqtJh6i-kd-hhWJ-ixY
+  →NHF_Original.sql 製造チームで作成されたDDLを取りまとめたもの （元のデータURL　https://drive.google.com/drive/u/0/folders/1Vskhn4EI24-WveqtJh6i-kd-hhWJ-ixY）
+  →NHF(SqlServer).erm （ERMAsterで取り込んだそのままのデータ） 
 ```
 
 ## 作成LOG
