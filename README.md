@@ -10,6 +10,7 @@ https://rion.atlassian.net/wiki/spaces/SF/pages/947847338/ERMaster+install
 
 
 # 各フォルダの説明
+```
 →NHFC
  →NHF(PostgreSQL).erm      NHF(SqlServer).ermをPostgresにとりあえず変換したものです。こちらを中心にメンテしていきます。
  →NHF(PostgreSQL).png      コミット前に確定したものを出力してください。
@@ -18,7 +19,7 @@ https://rion.atlassian.net/wiki/spaces/SF/pages/947847338/ERMaster+install
  →SQLServer
   →NHF_Original.sql
   →NHF(SqlServer).erm （ERMAsterで取り込んだそのままのデータ） 元のデータURL　https://drive.google.com/drive/u/0/folders/1Vskhn4EI24-WveqtJh6i-kd-hhWJ-ixY
-
+```
 
 ## 作成LOG
 SQLServer→PostgresSQL取り込みの手順については下記のチケットに残しました。
